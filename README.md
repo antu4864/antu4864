@@ -28,7 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit679&label=Profile%20views&color=0e75b6&style=flat" alt="Antu Kumar" /> </p>
 <img align="right" width=300px  alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="50">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** 😉 <br>
 ✔ I’m currently Developing backend for a covid portal called **Kangra COVID Bedtracker** for Himachal Govt. @**Plaxonic**<br>
