@@ -15,8 +15,8 @@
 
 <p align="center">
   <em>
-    This is Rohit Prasad, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, Amritsar</a> in computer science stream.
-    A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="50"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="50">&nbsp,<br> <b>Obsessed</b>
+    This is Antu Kumar, undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, Amritsar</a> in computer science stream.
+    A budding <b>Front-End Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="50"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="50">&nbsp,<br> <b>Obsessed</b>
     with the idea of <b>learning & exploring</b>. Wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px" height="50">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px" height="50">&nbsp.
@@ -31,14 +31,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="50">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** 😉 <br>
-✔ I’m currently Developing backend for a covid portal called **Kangra COVID Bedtracker** for Himachal Govt. @**Plaxonic**<br>
 ✔ I’m currently learning **React** & **Bootstrap**<br>
-✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Git** & **MongoDB**.<br>
+✔ I'm quite good at **Angular**, **ReactJs**, **Python**, **Git** .<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rohit_prasad/articles) <br>
-✔ I use to write code on [leetcode](https://leetcode.com/rohit221/) <br>
-✔ Have a look over My personal [Portfolio Website](https://rohit679.github.io/)<br>
-✔ Look at My contribution stats on [Gitlab](https://gitlab.com/rohit679)<br>
+✔ Have a look over My personal [Portfolio Website](https://antu4864.github.io/)<br>
+✔ Look at My contribution stats on [Gitlab](https://gitlab.com/antu4864)<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
