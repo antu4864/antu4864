@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" height="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" height="50"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit679&label=Profile%20views&color=0e75b6&style=flat" alt="Antu Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antu4864&label=Profile%20views&color=0e75b6&style=flat" alt="Antu Kumar" /> </p>
 <img align="right" width=300px  alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="50">&nbsp;***Talking about Personal Stuffs...***
