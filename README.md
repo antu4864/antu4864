@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Antu Kumar</h1>
 <h3 align="center">Software Engineer | Competitve Coder | Nature Lover</h3>
 <p align="center">
-<a href="linkedin.com/in/linkedin.com/in/antu-kumar-159608195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="[linkedin.com/in/linkedin.com/in/antu-kumar-159608195](https://www.linkedin.com/in/antu-kumar-159608195/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://leetcode.com/rohit221/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohit_prasad/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
  <a href = "mailto: antu9649@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
